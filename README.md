@@ -1,2 +1,2 @@
 # Weather-Java-app
-Weather app
+Myself made Weather app
